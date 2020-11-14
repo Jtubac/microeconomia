@@ -1,8 +1,8 @@
 /*
-Chimaltenango octubre de 2020
+Chimaltenango noviembre de 2020
 Programador: Jose Antonio Tubac Gonzalez
 Carnet: 1990-18-25512
-Programacion 2
+DICCIONARIO DE TERMINOS DE MICROECONOMIA
 */
 import java.awt.Color;
 import javax.swing.JOptionPane;
